@@ -1,0 +1,5 @@
+pooling_type: 'SAP'
+threshold: 0.03
+n_mels: 80
+embedding_dim: 1024
+checkpoint_path: '/SpeakerVerification/pretrained_model/Adver_training_ECAPATDNN.model'
